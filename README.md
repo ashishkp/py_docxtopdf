@@ -68,9 +68,6 @@ Stack ARN: <<STACK ARN>>
 
 ✨  Total time: 78.21s
 
-To add additional dependencies, for example other CDK libraries, just add
-them to your `setup.py` file and rerun the `pip install -r requirements.txt`
-command.
 
 ## Useful commands
 
@@ -82,4 +79,4 @@ command.
 
 Enjoy!
 
-Referrred Blog: https://medium.com/analytics-vidhya/convert-word-to-pdf-using-aws-lambda-cb111be0d685
+Referred Blog: [Convert Doc or Docx to pdf using AWS Lambda](https://medium.com/analytics-vidhya/convert-word-to-pdf-using-aws-lambda-cb111be0d685) by @kuharan
